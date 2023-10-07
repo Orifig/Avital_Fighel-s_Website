@@ -1,0 +1,49 @@
+body{
+    font-family: 'Varela Round', sans-serif;
+}
+
+.NavBar{
+    display: flex;
+    justify-content: space-between;
+    justify-content: top;
+}
+
+.NavBarA{
+    display: flex;
+}
+
+.NavBarB{
+    display: flex;
+    font-size: 55px;
+    transition: 3s;
+}
+
+.P1{
+    margin: 0px;
+    font-size: 75px;
+}
+
+.P2{
+    margin: 0px;
+}
+
+.P3{
+    margin: 0px;
+}
+
+
+.P2 a {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    margin-right: 50px;
+}
+
+.P3 a{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    margin-right: 50px;
+}
+
+.P2 a:hover{
+    text-decoration: underline;
+}
