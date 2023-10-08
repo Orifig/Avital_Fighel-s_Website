@@ -1,5 +1,7 @@
 body{
     font-family: 'Varela Round', sans-serif;
+    background-size: cover;
+    background-position-y: top;
 }
 
 .NavBar{
@@ -15,7 +17,6 @@ body{
 .NavBarB{
     display: flex;
     font-size: 55px;
-    transition: 3s;
 }
 
 .P1{
